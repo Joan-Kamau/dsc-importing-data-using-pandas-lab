@@ -1,4 +1,5 @@
 # Importing Data Using Pandas - Lab
+import pandas as pd
 
 ## Introduction
 
